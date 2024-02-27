@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DevOps\\DotNet\\DotNet.csproj": {}
+    "C:\\Users\\Kamalakannan\\Desktop\\Kamal\\DotNetKKK\\DotNet.csproj": {}
   },
   "projects": {
-    "D:\\DevOps\\DotNet\\DotNet.csproj": {
+    "C:\\Users\\Kamalakannan\\Desktop\\Kamal\\DotNetKKK\\DotNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DevOps\\DotNet\\DotNet.csproj",
+        "projectUniqueName": "C:\\Users\\Kamalakannan\\Desktop\\Kamal\\DotNetKKK\\DotNet.csproj",
         "projectName": "DotNet",
-        "projectPath": "D:\\DevOps\\DotNet\\DotNet.csproj",
-        "packagesPath": "C:\\Users\\karthick.gnanasekara\\.nuget\\packages\\",
-        "outputPath": "D:\\DevOps\\DotNet\\obj\\",
+        "projectPath": "C:\\Users\\Kamalakannan\\Desktop\\Kamal\\DotNetKKK\\DotNet.csproj",
+        "packagesPath": "C:\\Users\\Kamalakannan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kamalakannan\\Desktop\\Kamal\\DotNetKKK\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\karthick.gnanasekara\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Kamalakannan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -56,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }
